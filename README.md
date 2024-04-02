@@ -36,7 +36,7 @@ Link to the Youtube for this program: https://www.youtube.com/watch?v=eDFZMBJ6NN
 ## Development Environment
 
 - **Assembler:** MASM (Microsoft Macro Assembler) or compatible.
-- **IDE:** Visual Studio Code, Notepad++, or similar text editors.
+- **IDE:** Visual Studio, Visual Studio Code, Notepad++, or similar text editors.
 - **Operating System:** Windows (for Irvine library compatibility).
 
 ## Credits
